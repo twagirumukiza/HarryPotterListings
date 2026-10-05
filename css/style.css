@@ -96,3 +96,11 @@ footer {
 @media (min-width: 720px) {
   .grid { grid-template-columns: 1fr 1fr; }
 }
+.updated.warn { color: var(--orange); }
+.pills { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .5rem; }
+.pill { font-size: .75rem; padding: .15rem .55rem; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); }
+.pill.ok { color: var(--green); border-color: var(--green); }
+.pill.partial { color: var(--orange); border-color: var(--orange); }
+.pill.blocked, .pill.failed { color: var(--red); border-color: var(--red); }
+.hint { margin-top: .6rem; padding: .5rem .7rem; border-radius: 8px; background: rgba(255,183,77,.1); color: var(--orange) !important; }
+.hint[hidden] { display: none; }
