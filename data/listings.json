@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-10-05T20:00:00Z",
-  "sources": [
-    "ebay.fr",
-    "vinted.fr",
-    "leboncoin.fr",
-    "amazon.fr",
-    "coleka.com"
-  ],
-  "note": "Compteurs d'annonces actives. total = somme des marketplaces renseignées, ou manual si saisi.",
+  "updatedAt": null,
+  "sources": {},
+  "note": "Nombre d'annonces actives dont le titre contient le code de l'item. Rempli par le workflow GitHub Actions.",
   "items": {
     "VD390A": {
       "ebay": null,
@@ -17,7 +11,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD391A": {
       "ebay": null,
@@ -27,7 +22,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT393": {
       "ebay": null,
@@ -37,7 +33,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT394": {
       "ebay": null,
@@ -47,7 +44,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT395": {
       "ebay": null,
@@ -57,7 +55,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT396": {
       "ebay": null,
@@ -67,7 +66,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT397": {
       "ebay": null,
@@ -77,7 +77,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT398": {
       "ebay": null,
@@ -87,7 +88,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT399": {
       "ebay": null,
@@ -97,7 +99,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT400": {
       "ebay": null,
@@ -107,7 +110,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT401": {
       "ebay": null,
@@ -117,7 +121,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT402": {
       "ebay": null,
@@ -127,7 +132,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT413": {
       "ebay": null,
@@ -137,7 +143,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT436": {
       "ebay": null,
@@ -147,7 +154,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT403": {
       "ebay": null,
@@ -157,7 +165,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT404": {
       "ebay": null,
@@ -167,7 +176,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT405": {
       "ebay": null,
@@ -177,7 +187,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT406": {
       "ebay": null,
@@ -187,7 +198,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT407": {
       "ebay": null,
@@ -197,7 +209,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT408": {
       "ebay": null,
@@ -207,7 +220,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT410": {
       "ebay": null,
@@ -217,7 +231,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT411": {
       "ebay": null,
@@ -227,7 +242,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT412": {
       "ebay": null,
@@ -237,7 +253,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT430": {
       "ebay": null,
@@ -247,7 +264,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT431": {
       "ebay": null,
@@ -257,7 +275,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VT443": {
       "ebay": null,
@@ -267,7 +286,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD392": {
       "ebay": null,
@@ -277,7 +297,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD426": {
       "ebay": null,
@@ -287,7 +308,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD387": {
       "ebay": null,
@@ -297,7 +319,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD385": {
       "ebay": null,
@@ -307,7 +330,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD386": {
       "ebay": null,
@@ -317,7 +341,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD388": {
       "ebay": null,
@@ -327,7 +352,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD389": {
       "ebay": null,
@@ -337,7 +363,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD390": {
       "ebay": null,
@@ -347,7 +374,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD391": {
       "ebay": null,
@@ -357,7 +385,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD393": {
       "ebay": null,
@@ -367,7 +396,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD394": {
       "ebay": null,
@@ -377,7 +407,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD395": {
       "ebay": null,
@@ -387,7 +418,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD396": {
       "ebay": null,
@@ -397,7 +429,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD412": {
       "ebay": null,
@@ -407,7 +440,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD413": {
       "ebay": null,
@@ -417,7 +451,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD422": {
       "ebay": null,
@@ -427,7 +462,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD423": {
       "ebay": null,
@@ -437,7 +473,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD424": {
       "ebay": null,
@@ -447,7 +484,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD425": {
       "ebay": null,
@@ -457,7 +495,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD427": {
       "ebay": null,
@@ -467,7 +506,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD437": {
       "ebay": null,
@@ -477,7 +517,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD438": {
       "ebay": null,
@@ -487,7 +528,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD439": {
       "ebay": null,
@@ -497,7 +539,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     },
     "VD440": {
       "ebay": null,
@@ -507,7 +550,8 @@
       "coleka": null,
       "total": null,
       "manual": null,
-      "note": ""
+      "note": "",
+      "checked": {}
     }
   }
 }
