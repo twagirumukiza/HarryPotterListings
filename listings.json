@@ -1,0 +1,513 @@
+{
+  "updatedAt": "2026-10-05T20:00:00Z",
+  "sources": [
+    "ebay.fr",
+    "vinted.fr",
+    "leboncoin.fr",
+    "amazon.fr",
+    "coleka.com"
+  ],
+  "note": "Compteurs d'annonces actives. total = somme des marketplaces renseignées, ou manual si saisi.",
+  "items": {
+    "VD390A": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD391A": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT393": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT394": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT395": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT396": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT397": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT398": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT399": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT400": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT401": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT402": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT413": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT436": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT403": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT404": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT405": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT406": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT407": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT408": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT410": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT411": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT412": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT430": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT431": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VT443": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD392": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD426": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD387": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD385": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD386": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD388": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD389": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD390": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD391": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD393": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD394": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD395": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD396": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD412": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD413": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD422": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD423": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD424": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD425": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD427": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD437": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD438": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD439": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    },
+    "VD440": {
+      "ebay": null,
+      "vinted": null,
+      "leboncoin": null,
+      "amazon": null,
+      "coleka": null,
+      "total": null,
+      "manual": null,
+      "note": ""
+    }
+  }
+}
