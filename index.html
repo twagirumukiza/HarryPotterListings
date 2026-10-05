@@ -23,6 +23,7 @@
         <option value="accessory">Accessoires</option>
         <option value="other">Autres</option>
       </select>
+      <button type="button" id="btnRefresh" title="Recharger data/listings.json">↻ Recharger</button>
       <button type="button" id="btnExport">Exporter JSON</button>
       <button type="button" class="ghost" id="btnClearLocal">Effacer saisies locales</button>
     </div>
@@ -32,12 +33,18 @@
     <section class="hero">
       <h2>Combien d’exemplaires sont en vente maintenant ?</h2>
       <p>
-        Pour chaque figurine / accessoire, l’app agrège (ou te permet de saisir) le nombre d’annonces
-        actives sur eBay, Vinted, Leboncoin, Amazon, Coleka, etc.
-        <br /><strong>Sans backend :</strong> ouvre les recherches préremplies, compte, saisis — les totaux restent dans ton navigateur.
-        <br /><strong>Avec GitHub Actions + clé eBay (optionnel) :</strong> mise à jour automatique de <code>data/listings.json</code>.
+        Pour chaque figurine / accessoire : nombre d’annonces actives dont le titre contient le code de l’item.
+        Le relevé est fait automatiquement par GitHub Actions (toutes les 6 h) et affiché ici ;
+        tu peux aussi saisir un chiffre à la main, il est prioritaire.
+        <a id="lnkRun" href="#" target="_blank" rel="noopener" style="color:var(--acc2)">Lancer un relevé maintenant ↗</a>
       </p>
       <p class="updated" id="updatedLabel">Chargement…</p>
+      <div class="pills" id="sourceStatus"></div>
+      <p class="hint" id="hint" hidden>
+        ⚠️ eBay bloque la lecture de ses pages depuis GitHub. Pour des chiffres fiables et automatiques :
+        crée une clé gratuite sur developer.ebay.com et ajoute les secrets <code>EBAY_CLIENT_ID</code> et
+        <code>EBAY_CLIENT_SECRET</code> au dépôt (voir README).
+      </p>
     </section>
 
     <div class="stats" id="stats"></div>
@@ -50,6 +57,7 @@
     <a href="https://twagirumukiza.github.io/HarryPotterPops/" style="color:var(--acc2)">HarryPotterPops</a>
   </footer>
 
+  <script src="js/search.js"></script>
   <script src="js/figures.js"></script>
   <script src="js/app.js"></script>
 </body>
