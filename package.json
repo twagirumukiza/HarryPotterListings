@@ -1,0 +1,9 @@
+{
+  "name": "harrypotter-listings",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Compteur d'exemplaires Harry Potter Kinder Joy en vente sur le net",
+  "scripts": {
+    "update": "node scripts/update-listings.js"
+  }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HarryPotterListings — Exemplaires en vente</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <div class="bolt">⚡</div>
+      <div>
+        <h1>HarryPotterListings</h1>
+        <p>Exemplaires en vente sur le net — instant t</p>
+      </div>
+    </div>
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Rechercher code ou nom…" />
+      <select id="cat">
+        <option value="">Toutes catégories</option>
+        <option value="quidditch">Quidditch</option>
+        <option value="accessory">Accessoires</option>
+        <option value="other">Autres</option>
+      </select>
+      <button type="button" id="btnExport">Exporter JSON</button>
+      <button type="button" class="ghost" id="btnClearLocal">Effacer saisies locales</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Combien d’exemplaires sont en vente maintenant ?</h2>
+      <p>
+        Pour chaque figurine / accessoire, l’app agrège (ou te permet de saisir) le nombre d’annonces
+        actives sur eBay, Vinted, Leboncoin, Amazon, Coleka, etc.
+        <br /><strong>Sans backend :</strong> ouvre les recherches préremplies, compte, saisis — les totaux restent dans ton navigateur.
+        <br /><strong>Avec GitHub Actions + clé eBay (optionnel) :</strong> mise à jour automatique de <code>data/listings.json</code>.
+      </p>
+      <p class="updated" id="updatedLabel">Chargement…</p>
+    </section>
+
+    <div class="stats" id="stats"></div>
+    <div class="filters"></div>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <footer>
+    Outil fan non affilié Warner Bros. / Funko / Kinder · Données indicatives ·
+    <a href="https://twagirumukiza.github.io/HarryPotterPops/" style="color:var(--acc2)">HarryPotterPops</a>
+  </footer>
+
+  <script src="js/figures.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
